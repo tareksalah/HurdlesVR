@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{24AC252A-1F0D-CEB2-621F-856337F42389}") = "Hurdles", "Assembly-CSharp.csproj", "{FBA268E2-EACE-126D-AD8B-635B5FC627E9}"
+EndProject
+Project("{24AC252A-1F0D-CEB2-621F-856337F42389}") = "Hurdles", "Assembly-CSharp-Editor.csproj", "{AF4A45A9-958A-9FD8-4BA7-CA7D92F925F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA268E2-EACE-126D-AD8B-635B5FC627E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA268E2-EACE-126D-AD8B-635B5FC627E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA268E2-EACE-126D-AD8B-635B5FC627E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA268E2-EACE-126D-AD8B-635B5FC627E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF4A45A9-958A-9FD8-4BA7-CA7D92F925F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4A45A9-958A-9FD8-4BA7-CA7D92F925F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4A45A9-958A-9FD8-4BA7-CA7D92F925F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4A45A9-958A-9FD8-4BA7-CA7D92F925F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
